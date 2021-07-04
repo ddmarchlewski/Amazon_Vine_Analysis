@@ -15,3 +15,6 @@ There were 40,565 total number of reviews.
 38.2% of the five_star reviews were vine and 38.9% of the five_star reviews were non-vine.
 
 ![percentages](https://user-images.githubusercontent.com/80054925/124402583-c2036500-dcf6-11eb-9260-d3498d940012.png)
+
+## Summary
+After performing this analysis, there does not seem to be any positivity bias. This is because the percentages are so close together. Both being around 38 percent. We could look at the mean, median, and mode of the star ratings for Vine and non-Vine reviews.  
