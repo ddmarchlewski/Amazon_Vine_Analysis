@@ -8,6 +8,10 @@ There were 40,565 total number of reviews.
 
 ![total_number_of_reviews](https://user-images.githubusercontent.com/80054925/124402454-ef034800-dcf5-11eb-8391-77c537b28159.png)
 
-15711 of those reviews were 5 stars.
+15,711 of those reviews were 5 stars.
 
 ![five_star_reviews_total](https://user-images.githubusercontent.com/80054925/124402543-7c469c80-dcf6-11eb-86f3-182eaff1634e.png)
+
+38.2% of the five_star reviews were vine and 38.9% of the five_star reviews were non-vine.
+
+![percentages](https://user-images.githubusercontent.com/80054925/124402583-c2036500-dcf6-11eb-9260-d3498d940012.png)
